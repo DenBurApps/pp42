@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "535341135770",
+    "project_id": "frbspp42",
+    "storage_bucket": "frbspp42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535341135770:ios:15a4bbd8cf23a20b986c23",
+        "android_client_info": {
+          "package_name": "com.DIGbz.CRdPP42"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv9JuidWqeMsFyhA6ITjvDwQekd6sn8po"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
