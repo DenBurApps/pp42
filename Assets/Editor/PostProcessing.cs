@@ -21,7 +21,7 @@ public class IosBuildPostprocessor
 
         // Add ITSAppUsesNonExemptEncryption to Info.plist
         rootDict.SetString("ITSAppUsesNonExemptEncryption", "false");
-        rootDict.SetString("NSCameraUsageDescription", "true");
+        rootDict.SetString("NSCameraUsageDescription", "To get data from the device's camera to scan the QR code");
 
 
         File.WriteAllText(plistPath, plist.WriteToString());
